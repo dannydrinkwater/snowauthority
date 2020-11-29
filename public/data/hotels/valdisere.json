@@ -1,0 +1,2005 @@
+{
+   "result":"OK",
+   "data":{
+      "body":{
+         "header":"Val-d'Isere, Savoie (department), France",
+         "query":{
+            "destination":{
+               "id":"1635219",
+               "value":"Val-d'Isere, Savoie (department), France",
+               "resolvedLocation":"CITY:1635219:UNKNOWN:UNKNOWN"
+            }
+         },
+         "searchResults":{
+            "totalCount":1737,
+            "results":[
+               {
+                  "id":536673,
+                  "name":"Langley Hotel Victors",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/12000000/11680000/11677500/11677486/89d62ae8_l.jpg",
+                  "starRating":2.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Route du Parc des Sports",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73154",
+                     "region":"Rhône-Alpes",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.4,
+                     "rating":"8.4",
+                     "total":5,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£91",
+                        "exactCurrent":91.41,
+                        "old":"£101"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.449305,
+                     "lon":6.977198
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":11677486,
+                  "isAlternative":false
+               },
+               {
+                  "id":393710,
+                  "name":"Les Jardins de la Balme",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/1000000/980000/975900/975843/f5b78405_l.jpg",
+                  "starRating":1.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Route de la Balme",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":4.4,
+                     "rating":"4.4",
+                     "total":15,
+                     "scale":10
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£101",
+                        "exactCurrent":100.52,
+                        "old":"£111"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.450804,
+                     "lon":6.973907
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":975843,
+                  "vrBadge":"Residences",
+                  "isAlternative":false
+               },
+               {
+                  "id":1324340480,
+                  "name":"Résidence Les Cîmes - Centre Val d'Isère",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/42000000/41360000/41354400/41354390/5e075c89_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£107",
+                        "exactCurrent":106.71,
+                        "old":"£110"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.448791,
+                     "lon":6.980317
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":41354390,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":493558,
+                  "name":"Hôtel les Crêtes-Blanches - Val d'Isère",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/11000000/10030000/10029600/10029526/72f1b5d9_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"BP 10",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73151",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":52,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£110",
+                        "exactCurrent":109.9
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.449195,
+                     "lon":6.977149
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":10029526,
+                  "isAlternative":false
+               },
+               {
+                  "id":1324332544,
+                  "name":"Résidence Spa Les Chalets de Solaise",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/42000000/41360000/41354200/41354142/fb5ef9cd_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":4.0,
+                     "rating":"4.0",
+                     "total":1,
+                     "scale":10
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£122",
+                        "exactCurrent":122.25,
+                        "old":"£126"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.451808,
+                     "lon":6.975659
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":41354142,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1779169376,
+                  "name":"Hotel Auberge Saint Hubert",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/56000000/55570000/55567800/55567793/8d0128d6_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Avenue des Jeux Olympiques",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£131",
+                        "exactCurrent":130.56
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"newhotel|D13",
+                  "coordinate":{
+                     "lat":45.449696,
+                     "lon":6.977864
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":55567793,
+                  "isAlternative":false
+               },
+               {
+                  "id":400304,
+                  "name":"Hotel Bellier",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/5000000/4870000/4860600/4860600/1292cdb0_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rue du Coin",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":17,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£151",
+                        "exactCurrent":151.23
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.4497,
+                     "lon":6.9763
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":4860600,
+                  "isAlternative":false
+               },
+               {
+                  "id":1215467808,
+                  "name":"Maison de Famille Les 5 Frères",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/38000000/37960000/37952200/37952119/48d36447_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rue Nicolas Bazile",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£169",
+                        "exactCurrent":169.2
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.447461,
+                     "lon":6.9822
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":37952119,
+                  "isAlternative":false
+               },
+               {
+                  "id":444480,
+                  "name":"Hotel La Savoyarde",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/7000000/6900000/6895900/6895812/3fe2194b_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rue Noël Machet",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.4,
+                     "rating":"9.4",
+                     "total":30,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£199",
+                        "exactCurrent":199.48,
+                        "old":"£221"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.44871,
+                     "lon":6.97853
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":6895812,
+                  "isAlternative":false
+               },
+               {
+                  "id":400856,
+                  "name":"Hôtel Altitude",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/5000000/4880000/4872000/4871939/ef85a658_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rue de la Face",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":44,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£204",
+                        "exactCurrent":204.16
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.445552,
+                     "lon":6.976174
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":4871939,
+                  "isAlternative":false
+               },
+               {
+                  "id":237092,
+                  "name":"Hôtel Kandahar",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/2000000/1220000/1218900/1218862/81de1c95_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Avenue Olympique",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.8,
+                     "rating":"9.8",
+                     "total":7,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£219",
+                        "exactCurrent":218.63
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.454676,
+                     "lon":6.971185
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":1218862,
+                  "isAlternative":false
+               },
+               {
+                  "id":1779173568,
+                  "name":"Hôtel Mont-Blanc",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/56000000/55570000/55568000/55567924/c7d5e03e_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rue du rogoney",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£262",
+                        "exactCurrent":261.93
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"newhotel|D13",
+                  "coordinate":{
+                     "lat":45.446388,
+                     "lon":6.983298
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":55567924,
+                  "isAlternative":false
+               },
+               {
+                  "id":225716,
+                  "name":"L'Aigle des Neiges",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/1000000/980000/975900/975844/ce82f30a_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Place de l'Eglise",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.4,
+                     "rating":"9.4",
+                     "total":110,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£325",
+                        "exactCurrent":324.56,
+                        "old":"£381"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.447709,
+                     "lon":6.981204
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":975844,
+                  "isAlternative":false
+               },
+               {
+                  "id":1328620544,
+                  "name":"Hotel Le Val d'Isere",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/42000000/41490000/41488200/41488142/855c4787_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Place Jacques Mouflier",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.4,
+                     "rating":"8.4",
+                     "total":35,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£370",
+                        "exactCurrent":370.26
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.449328,
+                     "lon":6.980786
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":41488142,
+                  "isAlternative":false
+               },
+               {
+                  "id":41408512,
+                  "name":"Hôtel Tsanteleina",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/2000000/1270000/1262800/1262766/5edaf120_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Avenue Olympique",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.8,
+                     "rating":"9.8",
+                     "total":14,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£390",
+                        "exactCurrent":389.58
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.4523,
+                     "lon":6.97396
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":1262766,
+                  "isAlternative":false
+               },
+               {
+                  "id":330023,
+                  "name":"Hôtel Avenue Lodge",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/3000000/2730000/2723500/2723437/0500b9e5_l.jpg",
+                  "starRating":5.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Avenue Olympique Bp 80",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73152",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.2,
+                     "rating":"9.2",
+                     "total":27,
+                     "scale":10,
+                     "badge":"superb",
+                     "badgeText":"Superb"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£461",
+                        "exactCurrent":460.96
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.449594,
+                     "lon":6.978538
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":2723437,
+                  "isAlternative":false
+               },
+               {
+                  "id":1156153888,
+                  "name":"Airelles Val d’Isère – Mademoiselle",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/37000000/36100000/36098600/36098559/68a1c4c9_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Avenue des Téléphériques",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£626",
+                        "exactCurrent":625.94
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.4471,
+                     "lon":6.979074
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":36098559,
+                  "isAlternative":false
+               },
+               {
+                  "id":728088576,
+                  "name":"Apartment With one Bedroom in Val-d'isère, With Wonderful Mountain View and Wifi - 10 m From the Slopes",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/23000000/22730000/22721600/22721518/4afdc2fe_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£1,178",
+                        "exactCurrent":1178.03
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.44344,
+                     "lon":6.97466
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":22721518,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":639073,
+                  "name":"Hôtel Barmes de L'Ours",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/17000000/16370000/16363100/16363076/c2275424_l.jpg",
+                  "starRating":5.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Chemin des Carats",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.447333,
+                     "lon":6.974368
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":16363076,
+                  "isAlternative":false
+               },
+               {
+                  "id":1659790240,
+                  "name":"Savoyards and Rustic Apartment in the Heart of Val D'isère",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/52000000/51840000/51837200/51837195/97f69c81_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"Auvergne-Rhone-Alpes",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":true,
+                     "obfuscationMessage":"Precise location provided after booking"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.448488,
+                     "lon":6.982723
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":51837195,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":225720,
+                  "name":"Résidence Pierre & Vacances La Daille",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/1000000/980000/975900/975842/b69a61a5_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"La Daille",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.6,
+                     "rating":"8.6",
+                     "total":19,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.462294,
+                     "lon":6.964552
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":975842,
+                  "vrBadge":"Residences",
+                  "isAlternative":false
+               },
+               {
+                  "id":644900768,
+                  "name":"Chalet de Solaise",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/21000000/20130000/20121900/20121899/e21b7b3b_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.44908,
+                     "lon":6.98055
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":20121899,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1661575456,
+                  "name":"Lovely Chalet at the Bellevarde ski Lift in Espace Killy",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/52000000/51900000/51893000/51892983/20573aa0_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"Auvergne-Rhone-Alpes",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":true,
+                     "obfuscationMessage":"Precise location provided after booking"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.449248,
+                     "lon":6.983338
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":51892983,
+                  "vrBadge":"Chalet",
+                  "isAlternative":false
+               },
+               {
+                  "id":1032408992,
+                  "name":"CHAS5 - Superbe appartement, centre ville proche pistes et commerces.",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/33000000/32240000/32231600/32231531/a178e7c3_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Val-d'Isere",
+                     "region":"Auvergne-Rhône-Alpes",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.45187,
+                     "lon":6.97494
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":32231531,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":315944,
+                  "name":"L'Avancher",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/3000000/2690000/2685400/2685394/07ac59bf_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Avenue du Prariond",
+                     "extendedAddress":"",
+                     "locality":"Val-d'Isere",
+                     "postalCode":"73150",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.8,
+                     "rating":"9.8",
+                     "total":55,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Val-d'Isere",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.446794,
+                     "lon":6.98621
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":2685394,
+                  "isAlternative":false
+               }
+            ],
+            "pagination":{
+               "currentPage":1,
+               "pageGroup":"EXPEDIA_IN_POLYGON",
+               "nextPageStartIndex":25,
+               "nextPageNumber":2,
+               "nextPageGroup":"EXPEDIA_IN_POLYGON"
+            }
+         },
+         "sortResults":{
+            "options":[
+               {
+                  "label":"Star rating",
+                  "itemMeta":"star",
+                  "choices":[
+                     {
+                        "label":"Stars (high to low)",
+                        "value":"STAR_RATING_HIGHEST_FIRST",
+                        "selected":false
+                     },
+                     {
+                        "label":"Stars (low to high)",
+                        "value":"STAR_RATING_LOWEST_FIRST",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               },
+               {
+                  "label":"Distance",
+                  "itemMeta":"distance",
+                  "choices":[
+                     {
+                        "label":"Distance to city centre",
+                        "value":"DISTANCE_FROM_LANDMARK",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     {
+                        "label":"Landmarks",
+                        "itemMeta":"landmarks",
+                        "choices":[
+                           {
+                              "label":"City centre",
+                              "id":1635219.0
+                           },
+                           {
+                              "label":"3000",
+                              "id":1.0670557E7
+                           },
+                           {
+                              "label":"Bellevarde Express Ski Lift",
+                              "id":1.0446141E7
+                           },
+                           {
+                              "label":"Borsat Express",
+                              "id":1.0690807E7
+                           },
+                           {
+                              "label":"Centre Aquasportif Val d'Isère",
+                              "id":1.1130312E7
+                           },
+                           {
+                              "label":"Cugnaï",
+                              "id":1.0670552E7
+                           },
+                           {
+                              "label":"Ecole du Ski Francais de Val d'Isere",
+                              "id":1.0788208E7
+                           },
+                           {
+                              "label":"La Daille Ski Lift",
+                              "id":1.0690819E7
+                           },
+                           {
+                              "label":"Laisinant Express Ski Lift",
+                              "id":1.0446756E7
+                           },
+                           {
+                              "label":"Le Fornet Ski Resort",
+                              "id":1682261.0
+                           },
+                           {
+                              "label":"Legettaz Ski Lift",
+                              "id":1.0446912E7
+                           },
+                           {
+                              "label":"Les Lanches",
+                              "id":1.0690818E7
+                           },
+                           {
+                              "label":"Loyes Express Ski Lift",
+                              "id":1.0447009E7
+                           },
+                           {
+                              "label":"Manchet Express",
+                              "id":1.0670551E7
+                           },
+                           {
+                              "label":"Pyramides Express",
+                              "id":1.0670606E7
+                           },
+                           {
+                              "label":"Rogoney Ski Lift",
+                              "id":1.0447391E7
+                           },
+                           {
+                              "label":"Solaise Express Ski Lift",
+                              "id":1.0460744E7
+                           },
+                           {
+                              "label":"Solaise Gondola",
+                              "id":1.0460735E7
+                           },
+                           {
+                              "label":"Val-d'Isere Ski Resort",
+                              "id":1721046.0
+                           },
+                           {
+                              "label":"Village Ski Lift",
+                              "id":1.0447921E7
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "label":"Guest rating",
+                  "itemMeta":"rating",
+                  "choices":[
+                     {
+                        "label":"Guest rating",
+                        "value":"GUEST_RATING",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               },
+               {
+                  "label":"Price",
+                  "itemMeta":"price",
+                  "selectedChoiceLabel":"Price (low to high)",
+                  "choices":[
+                     {
+                        "label":"Price (high to low)",
+                        "value":"PRICE_HIGHEST_FIRST",
+                        "selected":false
+                     },
+                     {
+                        "label":"Price (low to high)",
+                        "value":"PRICE",
+                        "selected":true
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               }
+            ],
+            "distanceOptionLandmarkId":1635219.0
+         },
+         "filters":{
+            "applied":false,
+            "name":{
+               "item":{
+                  "value":""
+               },
+               "autosuggest":{
+                  "additionalUrlParams":{
+                     "resolved-location":"CITY:1635219:UNKNOWN:UNKNOWN",
+                     "q-destination":"Val-d'Isere, Savoie (department), France",
+                     "destination-id":"1635219"
+                  }
+               }
+            },
+            "starRating":{
+               "applied":false,
+               "items":[
+                  {
+                     "value":5
+                  },
+                  {
+                     "value":4
+                  },
+                  {
+                     "value":3
+                  },
+                  {
+                     "value":2
+                  },
+                  {
+                     "value":1
+                  }
+               ]
+            },
+            "guestRating":{
+               "range":{
+                  "min":{
+                     "defaultValue":0.0
+                  },
+                  "max":{
+                     "defaultValue":10.0
+                  }
+               }
+            },
+            "landmarks":{
+               "selectedOrder":[
+                  
+               ],
+               "items":[
+                  {
+                     "label":"City centre",
+                     "value":"1635219"
+                  },
+                  {
+                     "label":"Val-d'Isere Ski Resort",
+                     "value":"1721046"
+                  },
+                  {
+                     "label":"Ecole du Ski Francais de Val d'Isere",
+                     "value":"10788208"
+                  },
+                  {
+                     "label":"La Daille Ski Lift",
+                     "value":"10690819"
+                  },
+                  {
+                     "label":"Le Fornet Ski Resort",
+                     "value":"1682261"
+                  },
+                  {
+                     "label":"Legettaz Ski Lift",
+                     "value":"10446912"
+                  },
+                  {
+                     "label":"Solaise Express Ski Lift",
+                     "value":"10460744"
+                  },
+                  {
+                     "label":"Centre Aquasportif Val d'Isère",
+                     "value":"11130312"
+                  },
+                  {
+                     "label":"Village Ski Lift",
+                     "value":"10447921"
+                  },
+                  {
+                     "label":"Bellevarde Express Ski Lift",
+                     "value":"10446141"
+                  },
+                  {
+                     "label":"Manchet Express",
+                     "value":"10670551"
+                  },
+                  {
+                     "label":"Cugnaï",
+                     "value":"10670552"
+                  },
+                  {
+                     "label":"Laisinant Express Ski Lift",
+                     "value":"10446756"
+                  },
+                  {
+                     "label":"3000",
+                     "value":"10670557"
+                  },
+                  {
+                     "label":"Les Lanches",
+                     "value":"10690818"
+                  },
+                  {
+                     "label":"Loyes Express Ski Lift",
+                     "value":"10447009"
+                  },
+                  {
+                     "label":"Solaise Gondola",
+                     "value":"10460735"
+                  },
+                  {
+                     "label":"Rogoney Ski Lift",
+                     "value":"10447391"
+                  },
+                  {
+                     "label":"Pyramides Express",
+                     "value":"10670606"
+                  },
+                  {
+                     "label":"Borsat Express",
+                     "value":"10690807"
+                  }
+               ],
+               "distance":[
+                  
+               ]
+            },
+            "neighbourhood":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Le Fornet",
+                     "value":12533451
+                  }
+               ]
+            },
+            "accommodationType":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Agritourism",
+                     "value":"40"
+                  },
+                  {
+                     "label":"Apart-hotels",
+                     "value":"20"
+                  },
+                  {
+                     "label":"Apartments",
+                     "value":"15"
+                  },
+                  {
+                     "label":"B&Bs",
+                     "value":"5"
+                  },
+                  {
+                     "label":"Cabins & lodges",
+                     "value":"9"
+                  },
+                  {
+                     "label":"Caravan parks",
+                     "value":"21"
+                  },
+                  {
+                     "label":"Chalets",
+                     "value":"10"
+                  },
+                  {
+                     "label":"Cottages",
+                     "value":"11"
+                  },
+                  {
+                     "label":"Guest houses",
+                     "value":"30"
+                  },
+                  {
+                     "label":"Holiday homes",
+                     "value":"4"
+                  },
+                  {
+                     "label":"Hostels",
+                     "value":"12"
+                  },
+                  {
+                     "label":"Hotels",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Inns",
+                     "value":"8"
+                  },
+                  {
+                     "label":"Palaces",
+                     "value":"29"
+                  },
+                  {
+                     "label":"Resorts",
+                     "value":"3"
+                  },
+                  {
+                     "label":"Villas",
+                     "value":"14"
+                  }
+               ]
+            },
+            "facilities":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"24-hour front desk",
+                     "value":"2063"
+                  },
+                  {
+                     "label":"Airport transfers",
+                     "value":"513"
+                  },
+                  {
+                     "label":"Bar",
+                     "value":"515"
+                  },
+                  {
+                     "label":"Bathtub in room",
+                     "value":"517"
+                  },
+                  {
+                     "label":"Breakfast included",
+                     "value":"2048"
+                  },
+                  {
+                     "label":"Business facilities",
+                     "value":"519"
+                  },
+                  {
+                     "label":"Childcare",
+                     "value":"521"
+                  },
+                  {
+                     "label":"Connecting rooms available",
+                     "value":"523"
+                  },
+                  {
+                     "label":"Cribs available",
+                     "value":"525"
+                  },
+                  {
+                     "label":"Electric vehicle charging point",
+                     "value":"1073743315"
+                  },
+                  {
+                     "label":"Gym",
+                     "value":"2"
+                  },
+                  {
+                     "label":"Internet Access",
+                     "value":"8"
+                  },
+                  {
+                     "label":"Kitchen",
+                     "value":"32"
+                  },
+                  {
+                     "label":"Meeting Facilities",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Non-smoking",
+                     "value":"529"
+                  },
+                  {
+                     "label":"Parking available",
+                     "value":"16384"
+                  },
+                  {
+                     "label":"Parking included",
+                     "value":"134234112"
+                  },
+                  {
+                     "label":"Pet friendly",
+                     "value":"64"
+                  },
+                  {
+                     "label":"Pool",
+                     "value":"128"
+                  },
+                  {
+                     "label":"Restaurant",
+                     "value":"256"
+                  },
+                  {
+                     "label":"Ski-in/ski-out",
+                     "value":"535"
+                  },
+                  {
+                     "label":"Ski shuttle",
+                     "value":"531"
+                  },
+                  {
+                     "label":"Ski storage",
+                     "value":"533"
+                  },
+                  {
+                     "label":"Smoking areas",
+                     "value":"537"
+                  },
+                  {
+                     "label":"Spa",
+                     "value":"539"
+                  },
+                  {
+                     "label":"WiFi included",
+                     "value":"527"
+                  }
+               ]
+            },
+            "accessibility":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Accessibility equipment for the deaf",
+                     "value":"2097152"
+                  },
+                  {
+                     "label":"Accessible bathroom",
+                     "value":"131072"
+                  },
+                  {
+                     "label":"Accessible parking",
+                     "value":"524288"
+                  },
+                  {
+                     "label":"Accessible path of travel",
+                     "value":"65536"
+                  },
+                  {
+                     "label":"Braille or raised signage",
+                     "value":"4194304"
+                  },
+                  {
+                     "label":"In-room accessibility",
+                     "value":"1048576"
+                  },
+                  {
+                     "label":"Roll-in shower",
+                     "value":"262144"
+                  },
+                  {
+                     "label":"Wheelchair accessible rooms",
+                     "value":"541"
+                  }
+               ]
+            },
+            "themesAndTypes":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Adventure",
+                     "value":"18"
+                  },
+                  {
+                     "label":"Boutique",
+                     "value":"4"
+                  },
+                  {
+                     "label":"Business",
+                     "value":"14"
+                  },
+                  {
+                     "label":"Family-friendly",
+                     "value":"25"
+                  },
+                  {
+                     "label":"Golf",
+                     "value":"26"
+                  },
+                  {
+                     "label":"Historic",
+                     "value":"2"
+                  },
+                  {
+                     "label":"Hot Springs",
+                     "value":"22"
+                  },
+                  {
+                     "label":"LGBT Welcoming",
+                     "value":"21"
+                  },
+                  {
+                     "label":"Luxury",
+                     "value":"15"
+                  },
+                  {
+                     "label":"Romantic",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Ski",
+                     "value":"28"
+                  },
+                  {
+                     "label":"Spa Hotel",
+                     "value":"27"
+                  },
+                  {
+                     "label":"Winery/Vineyard",
+                     "value":"19"
+                  }
+               ]
+            },
+            "price":{
+               "label":"Price (total)",
+               "range":{
+                  "min":{
+                     "defaultValue":0
+                  },
+                  "max":{
+                     "defaultValue":500
+                  },
+                  "increments":5
+               },
+               "multiplier":1
+            },
+            "paymentPreference":{
+               "items":[
+                  {
+                     "label":"Pay with Hotels.com gift card",
+                     "value":"gc"
+                  }
+               ]
+            },
+            "welcomeRewards":{
+               "label":"Hotels.com® Rewards",
+               "items":[
+                  {
+                     "label":"Collect stamps",
+                     "value":"collect"
+                  },
+                  {
+                     "label":"Redeem reward* nights",
+                     "value":"redeem"
+                  }
+               ]
+            }
+         },
+         "pointOfSale":{
+            "currency":{
+               "code":"GBP",
+               "symbol":"£",
+               "separators":",.",
+               "format":"£{0}"
+            }
+         },
+         "miscellaneous":{
+            "pageViewBeaconUrl":"https://www.egadvertising.com/travelAds/v1/TravelAdPageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1635219&hotelIds=536673,393710,1324340480,493558,1324332544,1779169376,400304,1215467808,444480,400856,237092,1779173568,225716,1328620544,41408512,330023,1156153888,728088576,639073,1659790240,225720,644900768,1661575456,1032408992,315944&adults=2&userAgent=Hotels.com/Android%2056.1.1.9.release-56_1%20(56010472)&userGuid=d431c409-f44b-4482-ae78-58f37fd2c239&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E&children=0&culture=en_GB&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.0,9008.0,8347.0,9004.0,8952.0,7992.2,8915.0,9729.0,9716.0,9803.0,9824.0,9864.0&domain=uk.hotels.com&tac=true&userIP=127.0.0.1&action=pageview&publisher=expedia&programId=1",
+            "showLegalInfoForStrikethroughPrices":true,
+            "legalInfoForStrikethroughPrices":"The struck-out price is based on the property’s standard rate on our app, as determined and supplied by the property."
+         },
+         "pageInfo":{
+            "pageType":"dateless"
+         }
+      },
+      "common":{
+         "pointOfSale":{
+            "numberSeparators":",.",
+            "brandName":"Hotels.com"
+         },
+         "tracking":{
+            "omniture":{
+               "s.prop33":"D=v33",
+               "s.prop32":"D=v43",
+               "s.prop74":"search result without dates | ms shown | N",
+               "s.products":"LOCAL;11677486,MULTISOURCE;975843,LOCAL;41354390",
+               "s.eVar16":"Mob :: aApp",
+               "s.eVar40":"D=v0",
+               "s.eVar41":"GBP",
+               "s.eVar63":"9ab40fde-e664-4117-88d0-83611fe5a6f5",
+               "s.eVar42":"dateless",
+               "s.eVar4":"|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+               "s.eVar43":"en_GB|HCOM_UK|uk.hotels.com",
+               "s.eVar2":"Val-d'Isere, Savoie (department), France",
+               "s.eVar24":"MCTC=20;TU=NA;PDID=NULL;MVT=",
+               "s.eVar7":"",
+               "s.server":"uk.hotels.com",
+               "s.eVar6":"1635219",
+               "s.prop29":"D=v42",
+               "s.prop27":"d431c409-f44b-4482-ae78-58f37fd2c239",
+               "s.eVar9":"Price - low to high",
+               "s.eVar69":"Mob :: aApp",
+               "s.currencyCode":"GBP",
+               "s.eVar29":"Mob :: aApp",
+               "s.prop9":"1737",
+               "s.prop8":"0",
+               "s.eVar95":"Unknown",
+               "s.prop7":"1727",
+               "s.eVar31":"D=v0",
+               "s.eVar32":"D=v0",
+               "s.eVar33":"Mob :: aApp :: search result without dates",
+               "s.eVar34":"H277:018.007,H1871:007.002,H2585:002.001,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:031.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7066:000.000,M7192:000.001,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7384:000.000,M7552:023.001,M7561:000.000,M7870:000.000,M8130:000.001,M8336:005.002,M8347:000.000,M8692:000.000,M8698:000.000,M8714:000.000,M8718:000.000,M8915:000.000,M8928:000.000,M8952:000.000,M8976:000.000,M8992:000.000,M9004:000.000,M9035:000.000,M9065:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9508:000.000,M9549:000.000,M9716:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10013:000.000,M10077:000.000,M9215:001.000",
+               "s.eVar13":"389356",
+               "s.events":"event324,event318,event319,event320",
+               "s.prop18":"D=v6",
+               "s.prop5":"389356",
+               "s.prop15":"",
+               "s.prop3":"Val-d'Isere, Savoie (department), France",
+               "s.prop14":"D=v7",
+               "s.prop36":"|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+               "s.eVar93":"aws.us-west-2.unknown",
+               "s.prop2":"Price - low to high"
+            }
+         }
+      }
+   }
+}

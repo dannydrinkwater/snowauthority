@@ -1,0 +1,2135 @@
+{
+   "result":"OK",
+   "data":{
+      "body":{
+         "header":"Les Arcs and La Plagne, France",
+         "query":{
+            "destination":{
+               "id":"1809802",
+               "value":"Les Arcs and La Plagne, France",
+               "resolvedLocation":"REGION:1809802:UNKNOWN:UNKNOWN"
+            }
+         },
+         "searchResults":{
+            "totalCount":1866,
+            "results":[
+               {
+                  "id":1249512416,
+                  "name":"Appt Pierra Menta Vue sur Mont Blanc",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/40000000/39020000/39016100/39016013/e9fda739_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Bourg-Saint-Maurice",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£50",
+                        "exactCurrent":50.14
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Les Arcs",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.577156,
+                     "lon":6.781579
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":39016013,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1328679008,
+                  "name":"Chambres d'hôtes - A la Bouge'Hôtes",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/42000000/41490000/41490000/41489969/a1e6a3c2_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"8 rue de la Fromentière",
+                     "extendedAddress":"Lieu dit Bonconseil",
+                     "locality":"La Plagne-Tarentaise",
+                     "postalCode":"73210",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£57",
+                        "exactCurrent":57.2
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"La Plagne-Tarentaise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.569143,
+                     "lon":6.713902
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":41489969,
+                  "vrBadge":"Guest house",
+                  "isAlternative":false
+               },
+               {
+                  "id":857048832,
+                  "name":"L'Alpin",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/27000000/26760000/26751600/26751526/80c26d3a_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Chemin de l'Ancienne Mairie",
+                     "extendedAddress":"",
+                     "locality":"Landry",
+                     "postalCode":"73210",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.4,
+                     "rating":"9.4",
+                     "total":21,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£59",
+                        "exactCurrent":59.31,
+                        "old":"£84"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Landry",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.57062,
+                     "lon":6.74049
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":26751526,
+                  "isAlternative":false
+               },
+               {
+                  "id":1106111904,
+                  "name":"Le Bon Air",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/35000000/34540000/34534800/34534747/0c2901ba_l.jpg",
+                  "starRating":2.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Route de Bovereche",
+                     "extendedAddress":"",
+                     "locality":"Peisey-Nancroix",
+                     "postalCode":"73210",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":3,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£68",
+                        "exactCurrent":68.08
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Les Arcs",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.533489,
+                     "lon":6.772754
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":34534747,
+                  "isAlternative":false
+               },
+               {
+                  "id":266387,
+                  "name":"La Tourmaline",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/2000000/1900000/1897500/1897414/5f410eb6_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"175, route de la Fortune",
+                     "extendedAddress":"",
+                     "locality":"Aime",
+                     "postalCode":"73210",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":7.8,
+                     "rating":"7.8",
+                     "total":31,
+                     "scale":10,
+                     "badge":"good",
+                     "badgeText":"Good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£69",
+                        "exactCurrent":68.57
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Aime",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.55533,
+                     "lon":6.64397
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":1897414,
+                  "isAlternative":false
+               },
+               {
+                  "id":1082965504,
+                  "name":"Chalet Le Paradou",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/34000000/33820000/33811500/33811422/ecd95de2_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"4550 rd 86",
+                     "extendedAddress":"La Côte d'Aime",
+                     "locality":"La Plagne-Tarentaise",
+                     "postalCode":"73210",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£70",
+                        "exactCurrent":70.09,
+                        "old":"£74"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"La Plagne-Tarentaise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.57077,
+                     "lon":6.67213
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":33811422,
+                  "vrBadge":"Guest house",
+                  "isAlternative":false
+               },
+               {
+                  "id":648011584,
+                  "name":"Hôtel Arolla",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/21000000/20220000/20219200/20219112/d807f3e9_l.jpg",
+                  "starRating":2.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"192 Avenue Du Centenaire",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":33,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£71",
+                        "exactCurrent":70.88
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.61661,
+                     "lon":6.76886
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":20219112,
+                  "isAlternative":false
+               },
+               {
+                  "id":1215700576,
+                  "name":"La Foyère",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/38000000/37960000/37959400/37959393/cbca3d6b_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"178 route de Frébuge",
+                     "extendedAddress":"",
+                     "locality":"Aime",
+                     "postalCode":"73210",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":2,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£72",
+                        "exactCurrent":71.58
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Aime",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.557243,
+                     "lon":6.655814
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":37959393,
+                  "vrBadge":"Guest house",
+                  "isAlternative":false
+               },
+               {
+                  "id":643431360,
+                  "name":"Bed End Breakfast du Centre",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/21000000/20080000/20076000/20075980/17412209_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"351 Avenue du Centenaire",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.6,
+                     "rating":"9.6",
+                     "total":10,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£73",
+                        "exactCurrent":72.79
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.61593,
+                     "lon":6.76736
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":20075980,
+                  "isAlternative":false
+               },
+               {
+                  "id":369331,
+                  "name":"Maison Caramel",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/5000000/4150000/4148000/4147966/491904f4_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Chemin des Glières,",
+                     "extendedAddress":"",
+                     "locality":"Landry",
+                     "postalCode":"73210",
+                     "region":"Auvergne-Rhone-Alpes",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.0,
+                     "rating":"9.0",
+                     "total":2,
+                     "scale":10,
+                     "badge":"superb",
+                     "badgeText":"Superb"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£74",
+                        "exactCurrent":73.68
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Landry",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"TESCO",
+                  "coordinate":{
+                     "lat":45.569486,
+                     "lon":6.741861
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":4147966,
+                  "vrBadge":"Guest house",
+                  "isAlternative":false
+               },
+               {
+                  "id":1272779008,
+                  "name":"L'Ours qui Reve",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/40000000/39750000/39743100/39743094/b314fff0_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Les Plans",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£75",
+                        "exactCurrent":75.26
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.594085,
+                     "lon":6.758058
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":39743094,
+                  "vrBadge":"Guest house",
+                  "isAlternative":false
+               },
+               {
+                  "id":1168253120,
+                  "name":"Hotel Base Camp Lodge",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/37000000/36480000/36476700/36476660/fd173955_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Quartier des Alpins",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.4,
+                     "rating":"8.4",
+                     "total":58,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£78",
+                        "exactCurrent":77.68
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.610036,
+                     "lon":6.769334
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":36476660,
+                  "isAlternative":false
+               },
+               {
+                  "id":1249507456,
+                  "name":"Studio Nova",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/40000000/39020000/39015900/39015858/cc4512ab_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Bourg-Saint-Maurice",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£80",
+                        "exactCurrent":79.79
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Les Arcs",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.572254,
+                     "lon":6.777887
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":39015858,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":675605088,
+                  "name":"Hôtel Restaurant L'Adray",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/22000000/21090000/21081500/21081409/ae690607_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"11 Route de Notre Dame du Pré",
+                     "extendedAddress":"",
+                     "locality":"Aime",
+                     "postalCode":"73210",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.8,
+                     "rating":"9.8",
+                     "total":9,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£80",
+                        "exactCurrent":79.93
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Aime",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.53653,
+                     "lon":6.62717
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":21081409,
+                  "isAlternative":false
+               },
+               {
+                  "id":1792859680,
+                  "name":"Résidence Les Gémeaux - Belle Plagne",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/56000000/56000000/55995700/55995615/21c4a8cb_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"La Plagne-Tarentaise",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£82",
+                        "exactCurrent":81.77
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"La Plagne-Tarentaise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.50835,
+                     "lon":6.70664
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":55995615,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1777444288,
+                  "name":"Le Relais de la Vanoise",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/56000000/55520000/55513900/55513884/019b2fb7_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"253 avenue du Stade",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£82",
+                        "exactCurrent":82.23,
+                        "old":"£91"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"newhotel|D13",
+                  "coordinate":{
+                     "lat":45.62171,
+                     "lon":6.774169
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":55513884,
+                  "isAlternative":false
+               },
+               {
+                  "id":633570,
+                  "name":"Hôtel l'Autantic",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/17000000/16380000/16372500/16372437/7593f9c7_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"69 Route d'Hauteville",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.4,
+                     "rating":"9.4",
+                     "total":20,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£84",
+                        "exactCurrent":83.75
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.608603,
+                     "lon":6.765629
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":16372437,
+                  "isAlternative":false
+               },
+               {
+                  "id":927287680,
+                  "name":"Chambres d'hôtes La Bessonerie",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/29000000/28950000/28946500/28946490/6db5d1f0_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"les plans",
+                     "extendedAddress":"Hauteville Gondon",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":2,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£84",
+                        "exactCurrent":84.46
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Bourg-Saint-Maurice",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.59414,
+                     "lon":6.75755
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":28946490,
+                  "vrBadge":"Guest house",
+                  "isAlternative":false
+               },
+               {
+                  "id":247450,
+                  "name":"Pierre & Vacances Residence La Marelle et le Rami",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/2000000/1320000/1311600/1311512/15b03a92_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Les Coches",
+                     "extendedAddress":"",
+                     "locality":"La Plagne-Tarentaise",
+                     "postalCode":"73210",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.0,
+                     "rating":"9.0",
+                     "total":6,
+                     "scale":10,
+                     "badge":"superb",
+                     "badgeText":"Superb"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£87",
+                        "exactCurrent":87.16
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"La Plagne-Tarentaise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.554531,
+                     "lon":6.734834
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":1311512,
+                  "vrBadge":"Residences",
+                  "isAlternative":false
+               },
+               {
+                  "id":1446351648,
+                  "name":"B&B Les Carlines",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/46000000/45170000/45167300/45167239/de54e236_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Pré Bérard - La Côte d'Aime",
+                     "extendedAddress":"",
+                     "locality":"La Plagne-Tarentaise",
+                     "postalCode":"73210",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":3,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£107",
+                        "exactCurrent":106.7
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"La Plagne-Tarentaise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"D13",
+                  "coordinate":{
+                     "lat":45.569869,
+                     "lon":6.673855
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":45167239,
+                  "isAlternative":false
+               },
+               {
+                  "id":1324359520,
+                  "name":"Résidence & Spa les Sources de Marie - Arc 1950 Le Village",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/42000000/41360000/41355000/41354985/0bf638a9_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Bourg-Saint-Maurice",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£109",
+                        "exactCurrent":109.22
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Les Arcs",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.572382,
+                     "lon":6.828039
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":41354985,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":247734,
+                  "name":"Pierre & Vacances Residence le Belmont",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/2000000/1320000/1311600/1311513/1e1f98b8_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Village de Charmettoger, Arc 1800",
+                     "extendedAddress":"",
+                     "locality":"Bourg-Saint-Maurice",
+                     "postalCode":"73700",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.6,
+                     "rating":"8.6",
+                     "total":18,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£110",
+                        "exactCurrent":110.34
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Les Arcs",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|priceRangeUK|TESCO",
+                  "coordinate":{
+                     "lat":45.591706,
+                     "lon":6.792126
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":1311513,
+                  "vrBadge":"Residences",
+                  "isAlternative":false
+               },
+               {
+                  "id":641227360,
+                  "name":"Chalet Hôtel L'Aigle Rouge",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/21000000/20010000/20007200/20007105/d378d865_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"lieu-dit Montalbert",
+                     "extendedAddress":"",
+                     "locality":"Aime",
+                     "postalCode":"73210",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":6.6,
+                     "rating":"6.6",
+                     "total":8,
+                     "scale":10,
+                     "badge":"good",
+                     "badgeText":"Good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£119",
+                        "exactCurrent":118.59
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Aime",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":45.534665,
+                     "lon":6.634127
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":20007105,
+                  "isAlternative":false
+               },
+               {
+                  "id":288474,
+                  "name":"Hotel Les Glières",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/3000000/2530000/2521600/2521525/cced96ae_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rue des 16eme Jeux Olympiques d'Hiver",
+                     "extendedAddress":"",
+                     "locality":"Champagny-en-Vanoise",
+                     "postalCode":"73350",
+                     "region":"Savoie",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":7,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£120",
+                        "exactCurrent":119.78
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Champagny-en-Vanoise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":45.45476,
+                     "lon":6.6923
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":2521525,
+                  "isAlternative":false
+               },
+               {
+                  "id":472833120,
+                  "name":"Hotel & SPA Bellecote",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/15000000/14750000/14744800/14744785/5d9e8dc1_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"1 rue de la glisse",
+                     "extendedAddress":"",
+                     "locality":"La Plagne-Tarentaise",
+                     "postalCode":"73210",
+                     "region":"",
+                     "countryName":"France",
+                     "countryCode":"fr",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.6,
+                     "rating":"9.6",
+                     "total":4,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£130",
+                        "exactCurrent":130.47
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"La Plagne-Tarentaise",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":45.5599,
+                     "lon":6.7347
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":14744785,
+                  "isAlternative":false
+               }
+            ],
+            "pagination":{
+               "currentPage":1,
+               "pageGroup":"EXPEDIA_IN_POLYGON",
+               "nextPageStartIndex":25,
+               "nextPageNumber":2,
+               "nextPageGroup":"EXPEDIA_IN_POLYGON"
+            }
+         },
+         "sortResults":{
+            "options":[
+               {
+                  "label":"Star rating",
+                  "itemMeta":"star",
+                  "choices":[
+                     {
+                        "label":"Stars (high to low)",
+                        "value":"STAR_RATING_HIGHEST_FIRST",
+                        "selected":false
+                     },
+                     {
+                        "label":"Stars (low to high)",
+                        "value":"STAR_RATING_LOWEST_FIRST",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               },
+               {
+                  "label":"Distance",
+                  "itemMeta":"distance",
+                  "choices":[
+                     {
+                        "label":"Distance to city centre",
+                        "value":"DISTANCE_FROM_LANDMARK",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     {
+                        "label":"Landmarks",
+                        "itemMeta":"landmarks",
+                        "choices":[
+                           {
+                              "label":"Becoins Ski Lift",
+                              "id":1.0446126E7
+                           },
+                           {
+                              "label":"Belle Plagne Ski Lift",
+                              "id":1.0446194E7
+                           },
+                           {
+                              "label":"Cachette Ski Lift",
+                              "id":1.0446269E7
+                           },
+                           {
+                              "label":"Champagny Gondola",
+                              "id":1.0446242E7
+                           },
+                           {
+                              "label":"Chantel Ski Lift",
+                              "id":1.0446268E7
+                           },
+                           {
+                              "label":"Charmettoger Ski Lift",
+                              "id":1.0446482E7
+                           },
+                           {
+                              "label":"La Plagne Bobsleigh Track",
+                              "id":1.0447995E7
+                           },
+                           {
+                              "label":"La Roche Ski Lift",
+                              "id":1770249.0
+                           },
+                           {
+                              "label":"Les Blanchets Ski Lift",
+                              "id":1.0446921E7
+                           },
+                           {
+                              "label":"Melizes Ski Lift",
+                              "id":1.0447036E7
+                           },
+                           {
+                              "label":"Mont Blanc",
+                              "id":1.067062E7
+                           },
+                           {
+                              "label":"Montalbert Ski Lift",
+                              "id":1.044709E7
+                           },
+                           {
+                              "label":"Montchavin Ski Lift",
+                              "id":1.0447045E7
+                           },
+                           {
+                              "label":"Paradiski Ski Resort",
+                              "id":1682175.0
+                           },
+                           {
+                              "label":"Peisey-Vallandry Ski Field",
+                              "id":1.0670612E7
+                           },
+                           {
+                              "label":"Plagne 1800 Ski Lift",
+                              "id":1.0447212E7
+                           },
+                           {
+                              "label":"Saint Jacques Ski Lift",
+                              "id":1723737.0
+                           },
+                           {
+                              "label":"Transarc Gondola",
+                              "id":1.0447589E7
+                           },
+                           {
+                              "label":"Vagere Ski Lift",
+                              "id":1.044761E7
+                           },
+                           {
+                              "label":"Villards (Les Arcs 1800) Ski Lift",
+                              "id":1723736.0
+                           }
+                        ]
+                     },
+                     {
+                        "label":"Stations",
+                        "itemMeta":"stations",
+                        "choices":[
+                           {
+                              "label":"Aime Station",
+                              "id":1717376.0
+                           },
+                           {
+                              "label":"Bourg Saint Maurice Station",
+                              "id":1698405.0
+                           },
+                           {
+                              "label":"Landry Station",
+                              "id":1698407.0
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "label":"Guest rating",
+                  "itemMeta":"rating",
+                  "choices":[
+                     {
+                        "label":"Guest rating",
+                        "value":"GUEST_RATING",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               },
+               {
+                  "label":"Price",
+                  "itemMeta":"price",
+                  "selectedChoiceLabel":"Price (low to high)",
+                  "choices":[
+                     {
+                        "label":"Price (high to low)",
+                        "value":"PRICE_HIGHEST_FIRST",
+                        "selected":false
+                     },
+                     {
+                        "label":"Price (low to high)",
+                        "value":"PRICE",
+                        "selected":true
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               }
+            ],
+            "distanceOptionLandmarkId":1809802.0
+         },
+         "filters":{
+            "applied":false,
+            "name":{
+               "item":{
+                  "value":""
+               },
+               "autosuggest":{
+                  "additionalUrlParams":{
+                     "resolved-location":"REGION:1809802:UNKNOWN:UNKNOWN",
+                     "q-destination":"Les Arcs and La Plagne, France",
+                     "destination-id":"1809802"
+                  }
+               }
+            },
+            "starRating":{
+               "applied":false,
+               "items":[
+                  {
+                     "value":5
+                  },
+                  {
+                     "value":4
+                  },
+                  {
+                     "value":3
+                  },
+                  {
+                     "value":2
+                  },
+                  {
+                     "value":1
+                  }
+               ]
+            },
+            "guestRating":{
+               "range":{
+                  "min":{
+                     "defaultValue":0.0
+                  },
+                  "max":{
+                     "defaultValue":10.0
+                  }
+               }
+            },
+            "landmarks":{
+               "selectedOrder":[
+                  
+               ],
+               "items":[
+                  {
+                     "label":"Villards (Les Arcs 1800) Ski Lift",
+                     "value":"1723736"
+                  },
+                  {
+                     "label":"Bourg Saint Maurice Station",
+                     "value":"1698405"
+                  },
+                  {
+                     "label":"Peisey-Vallandry Ski Field",
+                     "value":"10670612"
+                  },
+                  {
+                     "label":"Paradiski Ski Resort",
+                     "value":"1682175"
+                  },
+                  {
+                     "label":"Plagne 1800 Ski Lift",
+                     "value":"10447212"
+                  },
+                  {
+                     "label":"Aime Station",
+                     "value":"1717376"
+                  },
+                  {
+                     "label":"Belle Plagne Ski Lift",
+                     "value":"10446194"
+                  },
+                  {
+                     "label":"Montchavin Ski Lift",
+                     "value":"10447045"
+                  },
+                  {
+                     "label":"Becoins Ski Lift",
+                     "value":"10446126"
+                  },
+                  {
+                     "label":"Charmettoger Ski Lift",
+                     "value":"10446482"
+                  },
+                  {
+                     "label":"Chantel Ski Lift",
+                     "value":"10446268"
+                  },
+                  {
+                     "label":"Cachette Ski Lift",
+                     "value":"10446269"
+                  },
+                  {
+                     "label":"Montalbert Ski Lift",
+                     "value":"10447090"
+                  },
+                  {
+                     "label":"La Plagne Bobsleigh Track",
+                     "value":"10447995"
+                  },
+                  {
+                     "label":"Mont Blanc",
+                     "value":"10670620"
+                  },
+                  {
+                     "label":"La Roche Ski Lift",
+                     "value":"1770249"
+                  },
+                  {
+                     "label":"Transarc Gondola",
+                     "value":"10447589"
+                  },
+                  {
+                     "label":"Champagny Gondola",
+                     "value":"10446242"
+                  },
+                  {
+                     "label":"Les Blanchets Ski Lift",
+                     "value":"10446921"
+                  },
+                  {
+                     "label":"Melizes Ski Lift",
+                     "value":"10447036"
+                  }
+               ],
+               "distance":[
+                  
+               ]
+            },
+            "neighbourhood":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Les Arcs",
+                     "value":486141
+                  },
+                  {
+                     "label":"Plagne Bellecote",
+                     "value":1808557
+                  }
+               ]
+            },
+            "accommodationType":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Agritourism",
+                     "value":"40"
+                  },
+                  {
+                     "label":"Apart-hotels",
+                     "value":"20"
+                  },
+                  {
+                     "label":"Apartments",
+                     "value":"15"
+                  },
+                  {
+                     "label":"B&Bs",
+                     "value":"5"
+                  },
+                  {
+                     "label":"Cabins & lodges",
+                     "value":"9"
+                  },
+                  {
+                     "label":"Caravan parks",
+                     "value":"21"
+                  },
+                  {
+                     "label":"Chalets",
+                     "value":"10"
+                  },
+                  {
+                     "label":"Cottages",
+                     "value":"11"
+                  },
+                  {
+                     "label":"Guest houses",
+                     "value":"30"
+                  },
+                  {
+                     "label":"Holiday homes",
+                     "value":"4"
+                  },
+                  {
+                     "label":"Hostels",
+                     "value":"12"
+                  },
+                  {
+                     "label":"Hotels",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Inns",
+                     "value":"8"
+                  },
+                  {
+                     "label":"Palaces",
+                     "value":"29"
+                  },
+                  {
+                     "label":"Resorts",
+                     "value":"3"
+                  },
+                  {
+                     "label":"Tree houses",
+                     "value":"19"
+                  },
+                  {
+                     "label":"Villas",
+                     "value":"14"
+                  }
+               ]
+            },
+            "facilities":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"24-hour front desk",
+                     "value":"2063"
+                  },
+                  {
+                     "label":"Airport transfers",
+                     "value":"513"
+                  },
+                  {
+                     "label":"Bar",
+                     "value":"515"
+                  },
+                  {
+                     "label":"Bathtub in room",
+                     "value":"517"
+                  },
+                  {
+                     "label":"Breakfast included",
+                     "value":"2048"
+                  },
+                  {
+                     "label":"Business facilities",
+                     "value":"519"
+                  },
+                  {
+                     "label":"Childcare",
+                     "value":"521"
+                  },
+                  {
+                     "label":"Connecting rooms available",
+                     "value":"523"
+                  },
+                  {
+                     "label":"Cribs available",
+                     "value":"525"
+                  },
+                  {
+                     "label":"Electric vehicle charging point",
+                     "value":"1073743315"
+                  },
+                  {
+                     "label":"Gym",
+                     "value":"2"
+                  },
+                  {
+                     "label":"Internet Access",
+                     "value":"8"
+                  },
+                  {
+                     "label":"Kitchen",
+                     "value":"32"
+                  },
+                  {
+                     "label":"Meeting Facilities",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Non-smoking",
+                     "value":"529"
+                  },
+                  {
+                     "label":"Parking available",
+                     "value":"16384"
+                  },
+                  {
+                     "label":"Parking included",
+                     "value":"134234112"
+                  },
+                  {
+                     "label":"Pet friendly",
+                     "value":"64"
+                  },
+                  {
+                     "label":"Pool",
+                     "value":"128"
+                  },
+                  {
+                     "label":"Restaurant",
+                     "value":"256"
+                  },
+                  {
+                     "label":"Ski-in/ski-out",
+                     "value":"535"
+                  },
+                  {
+                     "label":"Ski shuttle",
+                     "value":"531"
+                  },
+                  {
+                     "label":"Ski storage",
+                     "value":"533"
+                  },
+                  {
+                     "label":"Smoking areas",
+                     "value":"537"
+                  },
+                  {
+                     "label":"Spa",
+                     "value":"539"
+                  },
+                  {
+                     "label":"WiFi included",
+                     "value":"527"
+                  }
+               ]
+            },
+            "accessibility":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Accessibility equipment for the deaf",
+                     "value":"2097152"
+                  },
+                  {
+                     "label":"Accessible bathroom",
+                     "value":"131072"
+                  },
+                  {
+                     "label":"Accessible parking",
+                     "value":"524288"
+                  },
+                  {
+                     "label":"Accessible path of travel",
+                     "value":"65536"
+                  },
+                  {
+                     "label":"Braille or raised signage",
+                     "value":"4194304"
+                  },
+                  {
+                     "label":"In-room accessibility",
+                     "value":"1048576"
+                  },
+                  {
+                     "label":"Roll-in shower",
+                     "value":"262144"
+                  },
+                  {
+                     "label":"Wheelchair accessible rooms",
+                     "value":"541"
+                  }
+               ]
+            },
+            "themesAndTypes":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Adventure",
+                     "value":"18"
+                  },
+                  {
+                     "label":"Boutique",
+                     "value":"4"
+                  },
+                  {
+                     "label":"Business",
+                     "value":"14"
+                  },
+                  {
+                     "label":"Family-friendly",
+                     "value":"25"
+                  },
+                  {
+                     "label":"Golf",
+                     "value":"26"
+                  },
+                  {
+                     "label":"Historic",
+                     "value":"2"
+                  },
+                  {
+                     "label":"Hot Springs",
+                     "value":"22"
+                  },
+                  {
+                     "label":"LGBT Welcoming",
+                     "value":"21"
+                  },
+                  {
+                     "label":"Luxury",
+                     "value":"15"
+                  },
+                  {
+                     "label":"Romantic",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Ski",
+                     "value":"28"
+                  },
+                  {
+                     "label":"Spa Hotel",
+                     "value":"27"
+                  },
+                  {
+                     "label":"Winery/Vineyard",
+                     "value":"19"
+                  }
+               ]
+            },
+            "price":{
+               "label":"Price (total)",
+               "range":{
+                  "min":{
+                     "defaultValue":0
+                  },
+                  "max":{
+                     "defaultValue":500
+                  },
+                  "increments":5
+               },
+               "multiplier":1
+            },
+            "paymentPreference":{
+               "items":[
+                  {
+                     "label":"Pay with Hotels.com gift card",
+                     "value":"gc"
+                  }
+               ]
+            },
+            "welcomeRewards":{
+               "label":"Hotels.com® Rewards",
+               "items":[
+                  {
+                     "label":"Collect stamps",
+                     "value":"collect"
+                  },
+                  {
+                     "label":"Redeem reward* nights",
+                     "value":"redeem"
+                  }
+               ]
+            }
+         },
+         "pointOfSale":{
+            "currency":{
+               "code":"GBP",
+               "symbol":"£",
+               "separators":",.",
+               "format":"£{0}"
+            }
+         },
+         "miscellaneous":{
+            "pageViewBeaconUrl":"https://www.egadvertising.com/travelAds/v1/TravelAdPageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1809802&hotelIds=1249512416,1328679008,857048832,1106111904,266387,1082965504,648011584,1215700576,643431360,369331,1272779008,1168253120,1249507456,675605088,1792859680,1777444288,633570,927287680,247450,1446351648,1324359520,247734,641227360,288474,472833120&adults=2&userAgent=Hotels.com/Android%2056.1.1.9.release-56_1%20(56010472)&userGuid=ca9516f2-ce2f-48a9-998c-3d6b3f0f23a4&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E&children=0&culture=en_GB&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.0,9008.0,8347.0,9004.0,8952.0,7992.2,8915.0,9729.0,9716.0,9803.0,9824.0,9864.0&domain=uk.hotels.com&tac=true&userIP=127.0.0.1&action=pageview&publisher=expedia&programId=1",
+            "showLegalInfoForStrikethroughPrices":true,
+            "legalInfoForStrikethroughPrices":"The struck-out price is based on the property’s standard rate on our app, as determined and supplied by the property."
+         },
+         "pageInfo":{
+            "pageType":"dateless"
+         }
+      },
+      "common":{
+         "pointOfSale":{
+            "numberSeparators":",.",
+            "brandName":"Hotels.com"
+         },
+         "tracking":{
+            "omniture":{
+               "s.prop33":"D=v33",
+               "s.prop32":"D=v43",
+               "s.prop74":"search result without dates | ms shown | N",
+               "s.products":"LOCAL;39016013,LOCAL;41489969,LOCAL;26751526",
+               "s.eVar16":"Mob :: aApp",
+               "s.eVar40":"D=v0",
+               "s.eVar41":"GBP",
+               "s.eVar63":"b4350928-a728-4f20-8789-205cdd0e117a",
+               "s.eVar42":"dateless",
+               "s.eVar4":"|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+               "s.eVar43":"en_GB|HCOM_UK|uk.hotels.com",
+               "s.eVar2":"Les Arcs and La Plagne, France",
+               "s.eVar24":"MCTC=20;TU=NA;PDID=NULL;MVT=",
+               "s.eVar7":"",
+               "s.server":"uk.hotels.com",
+               "s.eVar6":"1809802",
+               "s.prop29":"D=v42",
+               "s.prop27":"ca9516f2-ce2f-48a9-998c-3d6b3f0f23a4",
+               "s.eVar9":"Price - low to high",
+               "s.eVar69":"Mob :: aApp",
+               "s.currencyCode":"GBP",
+               "s.eVar29":"Mob :: aApp",
+               "s.prop9":"1866",
+               "s.prop8":"0",
+               "s.eVar95":"Unknown",
+               "s.prop7":"1855",
+               "s.eVar31":"D=v0",
+               "s.eVar32":"D=v0",
+               "s.eVar33":"Mob :: aApp :: search result without dates",
+               "s.eVar34":"H277:018.007,H1871:007.002,H2585:002.001,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:031.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7066:000.000,M7192:000.001,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7384:000.000,M7552:023.001,M7561:000.000,M7870:000.000,M8130:000.001,M8336:005.002,M8347:000.000,M8692:000.000,M8698:000.000,M8714:000.000,M8718:000.000,M8915:000.000,M8928:000.000,M8952:000.000,M8976:000.000,M8992:000.000,M9004:000.000,M9035:000.000,M9065:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9508:000.000,M9549:000.000,M9716:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10013:000.000,M10077:000.000,M9215:001.000",
+               "s.eVar13":"389356",
+               "s.events":"event324,event320,event319,event318",
+               "s.prop18":"D=v6",
+               "s.prop5":"389356",
+               "s.prop15":"",
+               "s.prop3":"Les Arcs and La Plagne, France",
+               "s.prop14":"D=v7",
+               "s.prop36":"|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+               "s.eVar93":"aws.us-west-2.unknown",
+               "s.prop2":"Price - low to high"
+            }
+         }
+      }
+   }
+}

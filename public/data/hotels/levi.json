@@ -1,0 +1,1823 @@
+{
+   "result":"OK",
+   "data":{
+      "body":{
+         "header":"Levi, Lapland, Finland",
+         "query":{
+            "destination":{
+               "id":"1663115",
+               "value":"Levi, Lapland, Finland",
+               "resolvedLocation":"REGION:1663115:UNKNOWN:UNKNOWN"
+            }
+         },
+         "searchResults":{
+            "totalCount":52,
+            "results":[
+               {
+                  "id":1360453632,
+                  "name":"Levilehto Apartments",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/43000000/42490000/42483000/42482926/b155a434_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Levintie 1625",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.0,
+                     "rating":"9.0",
+                     "total":24,
+                     "scale":10,
+                     "badge":"superb",
+                     "badgeText":"Superb"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£84",
+                        "exactCurrent":84.03
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":67.80668,
+                     "lon":24.80211
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":42482926,
+                  "isAlternative":false
+               },
+               {
+                  "id":247722,
+                  "name":"Lapland Hotels Sirkantähti",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/2000000/1640000/1636400/1636387/47bf143b_l.jpg",
+                  "starRating":3.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Levintie 1630",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":74,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£91",
+                        "exactCurrent":90.76
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13",
+                  "coordinate":{
+                     "lat":67.807111,
+                     "lon":24.80325
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":1636387,
+                  "isAlternative":false
+               },
+               {
+                  "id":620992896,
+                  "name":"Levi Suites Levi Gold",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/20000000/19380000/19374800/19374778/1a2fbf6f_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Torikuja 3",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.6,
+                     "rating":"8.6",
+                     "total":54,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£93",
+                        "exactCurrent":92.55
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.804682,
+                     "lon":24.807243
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":19374778,
+                  "vrBadge":"Apartments",
+                  "isAlternative":false
+               },
+               {
+                  "id":275366,
+                  "name":"Hotel Hullu Poro",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/3000000/2280000/2271100/2271082/22c208e4_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Rakkavaarantie 5, Levi",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":271,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£94",
+                        "exactCurrent":93.8,
+                        "old":"£104"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":67.807435,
+                     "lon":24.812787
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":2271082,
+                  "isAlternative":false
+               },
+               {
+                  "id":275220,
+                  "name":"Levi Hotel Spa",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/1000000/530000/523600/523574/06ecaa39_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Levintie 1590",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.4,
+                     "rating":"8.4",
+                     "total":236,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£96",
+                        "exactCurrent":95.92,
+                        "old":"£107"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|increaseNumberOfReviewsRequired|TESCO",
+                  "coordinate":{
+                     "lat":67.804029,
+                     "lon":24.800127
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":523574,
+                  "isAlternative":false
+               },
+               {
+                  "id":476427,
+                  "name":"Break Sokos Hotel Levi",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/3000000/2310000/2303900/2303825/4df938a4_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Tähtitie 5",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":145,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£108",
+                        "exactCurrent":107.82
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":67.806067,
+                     "lon":24.805399
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":2303825,
+                  "isAlternative":false
+               },
+               {
+                  "id":352054,
+                  "name":"Hotel K5 Levi",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/3000000/2750000/2745100/2745093/b6402816_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Katkanrannantie 2",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":62,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£115",
+                        "exactCurrent":115.02
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.80557,
+                     "lon":24.797906
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":2745093,
+                  "isAlternative":false
+               },
+               {
+                  "id":352053,
+                  "name":"Hotel Levi Panorama & Levi Chalet Apartments",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/4000000/3310000/3300400/3300308/a872fd0a_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Tunturitie 205",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":9.0,
+                     "rating":"9.0",
+                     "total":119,
+                     "scale":10,
+                     "badge":"superb",
+                     "badgeText":"Superb"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£116",
+                        "exactCurrent":115.64,
+                        "old":"£128"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":67.798706,
+                     "lon":24.810194
+                  },
+                  "providerType":"MULTISOURCE",
+                  "supplierHotelId":3300308,
+                  "isAlternative":false
+               },
+               {
+                  "id":1184531456,
+                  "name":"Design Hotel Levi",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/37000000/36990000/36985400/36985358/a7957c5a_l.jpg",
+                  "starRating":5.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Levintie 1590",
+                     "extendedAddress":"Levi",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.4,
+                     "rating":"8.4",
+                     "total":5,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£176",
+                        "exactCurrent":176.3,
+                        "old":"£196"
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":67.804404,
+                     "lon":24.80203
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":36985358,
+                  "isAlternative":false
+               },
+               {
+                  "id":1090058432,
+                  "name":"Levin Kultarinne A3",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/35000000/34040000/34033100/34033076/224c7971_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":2,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£336",
+                        "exactCurrent":336.06
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.805934,
+                     "lon":24.811073
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":34033076,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1090052800,
+                  "name":"Levikaira 12",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/35000000/34040000/34032900/34032900/b2ceffdd_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£368",
+                        "exactCurrent":368.41
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.809174,
+                     "lon":24.794752
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":34032900,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1090054720,
+                  "name":"Levikaira 17",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/35000000/34040000/34033000/34032960/60228fc4_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£368",
+                        "exactCurrent":368.41
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.810572,
+                     "lon":24.822862
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":34032960,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1088872224,
+                  "name":"Levikaira 11",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/34000000/34000000/33996100/33996007/bb81a224_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£368",
+                        "exactCurrent":368.41
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.809174,
+                     "lon":24.794752
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":33996007,
+                  "vrBadge":"Villa",
+                  "isAlternative":false
+               },
+               {
+                  "id":1090056736,
+                  "name":"Levikaira 19",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/35000000/34040000/34033100/34033023/3fb5ab3f_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":10.0,
+                     "rating":"10.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"exceptional",
+                     "badgeText":"Exceptional"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£368",
+                        "exactCurrent":368.41
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.811062,
+                     "lon":24.824097
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":34033023,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1090059584,
+                  "name":"Levin Kultarinne A4",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/35000000/34040000/34033200/34033112/244c4d8b_l.jpg",
+                  "starRating":0.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.0,
+                     "rating":"8.0",
+                     "total":1,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "ratePlan":{
+                     "price":{
+                        "current":"£462",
+                        "exactCurrent":461.86
+                     },
+                     "features":{
+                        "paymentPreference":false,
+                        "noCCRequired":false
+                     }
+                  },
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.805934,
+                     "lon":24.811073
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":34033112,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":635280448,
+                  "name":"Immelkartano",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/20000000/19830000/19821300/19821264/4ed4ea2c_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"Lapland",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"Privatebeachv1",
+                  "coordinate":{
+                     "lat":67.79132,
+                     "lon":24.78342
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":19821264,
+                  "vrBadge":"Villa",
+                  "isAlternative":false
+               },
+               {
+                  "id":620976800,
+                  "name":"Levi Suites Unna Mànnu",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/20000000/19380000/19374300/19374275/5fb2ea23_l.jpg",
+                  "starRating":4.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Mariankuja 6",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.6,
+                     "rating":"8.6",
+                     "total":35,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.804674,
+                     "lon":24.807227
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":19374275,
+                  "vrBadge":"Apartments",
+                  "isAlternative":false
+               },
+               {
+                  "id":620984864,
+                  "name":"Levi Suites Levin Klubi",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/20000000/19380000/19374600/19374527/e910d09f_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Golfväylä 7",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.8,
+                     "rating":"8.8",
+                     "total":47,
+                     "scale":10,
+                     "badge":"fabulous",
+                     "badgeText":"Fabulous"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.799585,
+                     "lon":24.873862
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":19374527,
+                  "vrBadge":"Apartments",
+                  "isAlternative":false
+               },
+               {
+                  "id":1230042080,
+                  "name":"Leviholidays Mars",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/39000000/38410000/38407600/38407565/702b37ce_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"Tunturi-Lappi",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.801942,
+                     "lon":24.89347
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":38407565,
+                  "vrBadge":"Cottage",
+                  "isAlternative":false
+               },
+               {
+                  "id":1230030048,
+                  "name":"Leviholidays Polaris A & B",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/39000000/38410000/38407200/38407189/e842f7e6_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"Tunturi-Lappi",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.808776,
+                     "lon":24.875375
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":38407189,
+                  "vrBadge":"Chalet",
+                  "isAlternative":false
+               },
+               {
+                  "id":1230051424,
+                  "name":"Leviholidays Lapinkarhu A & B",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/39000000/38410000/38407900/38407857/4840935f_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"Tunturi-Lappi",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.808992,
+                     "lon":24.874801
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":38407857,
+                  "vrBadge":"Cottage",
+                  "isAlternative":false
+               },
+               {
+                  "id":509622,
+                  "name":"Hostel Hullu Poro",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/11000000/10500000/10494500/10494468/a25e2711_l.jpg",
+                  "starRating":2.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "streetAddress":"Sivulantie 2",
+                     "extendedAddress":"",
+                     "locality":"Kittila",
+                     "postalCode":"99130",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":7.2,
+                     "rating":"7.2",
+                     "total":10,
+                     "scale":10,
+                     "badge":"good",
+                     "badgeText":"Good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":67.815472,
+                     "lon":24.789445
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":10494468,
+                  "vrBadge":"Apartments",
+                  "isAlternative":false
+               },
+               {
+                  "id":679587008,
+                  "name":"LomaGuru Apartment",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/22000000/21210000/21205900/21205844/15d9c538_l.jpg",
+                  "starRating":4.0,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "guestReviews":{
+                     "unformattedRating":8.4,
+                     "rating":"8.4",
+                     "total":5,
+                     "scale":10,
+                     "badge":"very-good",
+                     "badgeText":"Very good"
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "pimmsAttributes":"DoubleStamps|D13|TESCO",
+                  "coordinate":{
+                     "lat":67.81177,
+                     "lon":24.86033
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":21205844,
+                  "vrBadge":"Apartment",
+                  "isAlternative":false
+               },
+               {
+                  "id":1230052864,
+                  "name":"Leviholidays Aurora A & B",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/39000000/38410000/38408000/38407902/e19c6570_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"Tunturi-Lappi",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.808742,
+                     "lon":24.875562
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":38407902,
+                  "vrBadge":"Chalet",
+                  "isAlternative":false
+               },
+               {
+                  "id":1230033824,
+                  "name":"Leviholidays Bellavilla A & B",
+                  "thumbnailUrl":"https://exp.cdn-hotels.com/hotels/39000000/38410000/38407400/38407307/acea32ba_l.jpg",
+                  "starRating":3.5,
+                  "urls":{
+                     
+                  },
+                  "address":{
+                     "locality":"Kittila",
+                     "region":"Tunturi-Lappi",
+                     "countryName":"Finland",
+                     "countryCode":"fi",
+                     "obfuscate":false
+                  },
+                  "landmarks":[
+                     
+                  ],
+                  "neighbourhood":"Kittila",
+                  "deals":{
+                     
+                  },
+                  "messaging":{
+                     
+                  },
+                  "badging":{
+                     
+                  },
+                  "coordinate":{
+                     "lat":67.808769,
+                     "lon":24.873461
+                  },
+                  "providerType":"LOCAL",
+                  "supplierHotelId":38407307,
+                  "vrBadge":"Chalet",
+                  "isAlternative":false
+               }
+            ],
+            "pagination":{
+               "currentPage":1,
+               "pageGroup":"EXPEDIA_IN_POLYGON",
+               "nextPageStartIndex":25,
+               "nextPageNumber":2,
+               "nextPageGroup":"EXPEDIA_IN_POLYGON"
+            }
+         },
+         "sortResults":{
+            "options":[
+               {
+                  "label":"Star rating",
+                  "itemMeta":"star",
+                  "choices":[
+                     {
+                        "label":"Stars (high to low)",
+                        "value":"STAR_RATING_HIGHEST_FIRST",
+                        "selected":false
+                     },
+                     {
+                        "label":"Stars (low to high)",
+                        "value":"STAR_RATING_LOWEST_FIRST",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               },
+               {
+                  "label":"Distance",
+                  "itemMeta":"distance",
+                  "choices":[
+                     {
+                        "label":"Distance to city centre",
+                        "value":"DISTANCE_FROM_LANDMARK",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     {
+                        "label":"Landmarks",
+                        "itemMeta":"landmarks",
+                        "choices":[
+                           {
+                              "label":"Crazy Reindeer Arena",
+                              "id":1.0673476E7
+                           },
+                           {
+                              "label":"Eturinne, Levi",
+                              "id":1.0673474E7
+                           },
+                           {
+                              "label":"Gondoli 2000",
+                              "id":1.0673472E7
+                           },
+                           {
+                              "label":"ICIUM Wonderworld of Ice",
+                              "id":1.0667804E7
+                           },
+                           {
+                              "label":"Levi Express Cabin Lift",
+                              "id":1.0673475E7
+                           },
+                           {
+                              "label":"Levi Golf & Country Club",
+                              "id":1.0673477E7
+                           },
+                           {
+                              "label":"Levi Ski Resort",
+                              "id":1674241.0
+                           },
+                           {
+                              "label":"Levi Tourist Office",
+                              "id":1.0626419E7
+                           },
+                           {
+                              "label":"Market Square, Levi",
+                              "id":1.0673471E7
+                           },
+                           {
+                              "label":"Samiland",
+                              "id":1.0673473E7
+                           }
+                        ]
+                     },
+                     {
+                        "label":"Airports",
+                        "itemMeta":"airports",
+                        "choices":[
+                           {
+                              "label":"Kittila (KTT)",
+                              "id":1649037.0
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "label":"Guest rating",
+                  "itemMeta":"rating",
+                  "choices":[
+                     {
+                        "label":"Guest rating",
+                        "value":"GUEST_RATING",
+                        "selected":false
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               },
+               {
+                  "label":"Price",
+                  "itemMeta":"price",
+                  "selectedChoiceLabel":"Price (low to high)",
+                  "choices":[
+                     {
+                        "label":"Price (high to low)",
+                        "value":"PRICE_HIGHEST_FIRST",
+                        "selected":false
+                     },
+                     {
+                        "label":"Price (low to high)",
+                        "value":"PRICE",
+                        "selected":true
+                     }
+                  ],
+                  "enhancedChoices":[
+                     
+                  ]
+               }
+            ],
+            "distanceOptionLandmarkId":1663115.0
+         },
+         "filters":{
+            "applied":false,
+            "name":{
+               "item":{
+                  "value":""
+               },
+               "autosuggest":{
+                  "additionalUrlParams":{
+                     "resolved-location":"REGION:1663115:UNKNOWN:UNKNOWN",
+                     "q-destination":"Levi, Lapland, Finland",
+                     "destination-id":"1663115"
+                  }
+               }
+            },
+            "starRating":{
+               "applied":false,
+               "items":[
+                  {
+                     "value":5
+                  },
+                  {
+                     "value":4
+                  },
+                  {
+                     "value":3
+                  },
+                  {
+                     "value":2
+                  },
+                  {
+                     "value":1,
+                     "disabled":true
+                  }
+               ]
+            },
+            "guestRating":{
+               "range":{
+                  "min":{
+                     "defaultValue":0.0
+                  },
+                  "max":{
+                     "defaultValue":10.0
+                  }
+               }
+            },
+            "landmarks":{
+               "selectedOrder":[
+                  
+               ],
+               "items":[
+                  {
+                     "label":"Levi Ski Resort",
+                     "value":"1674241"
+                  },
+                  {
+                     "label":"Levi Tourist Office",
+                     "value":"10626419"
+                  },
+                  {
+                     "label":"Kittila (KTT)",
+                     "value":"1649037"
+                  },
+                  {
+                     "label":"Levi Golf & Country Club",
+                     "value":"10673477"
+                  },
+                  {
+                     "label":"Eturinne, Levi",
+                     "value":"10673474"
+                  },
+                  {
+                     "label":"Levi Express Cabin Lift",
+                     "value":"10673475"
+                  },
+                  {
+                     "label":"Crazy Reindeer Arena",
+                     "value":"10673476"
+                  },
+                  {
+                     "label":"Market Square, Levi",
+                     "value":"10673471"
+                  },
+                  {
+                     "label":"ICIUM Wonderworld of Ice",
+                     "value":"10667804"
+                  },
+                  {
+                     "label":"Gondoli 2000",
+                     "value":"10673472"
+                  },
+                  {
+                     "label":"Samiland",
+                     "value":"10673473"
+                  }
+               ],
+               "distance":[
+                  
+               ]
+            },
+            "accommodationType":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Apartments",
+                     "value":"15"
+                  },
+                  {
+                     "label":"Cabins & lodges",
+                     "value":"9"
+                  },
+                  {
+                     "label":"Chalets",
+                     "value":"10"
+                  },
+                  {
+                     "label":"Cottages",
+                     "value":"11"
+                  },
+                  {
+                     "label":"Hostels",
+                     "value":"12"
+                  },
+                  {
+                     "label":"Hotels",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Resorts",
+                     "value":"3"
+                  },
+                  {
+                     "label":"Villas",
+                     "value":"14"
+                  }
+               ]
+            },
+            "facilities":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"24-hour front desk",
+                     "value":"2063"
+                  },
+                  {
+                     "label":"Airport transfers",
+                     "value":"513"
+                  },
+                  {
+                     "label":"Bar",
+                     "value":"515"
+                  },
+                  {
+                     "label":"Bathtub in room",
+                     "value":"517"
+                  },
+                  {
+                     "label":"Breakfast included",
+                     "value":"2048"
+                  },
+                  {
+                     "label":"Business facilities",
+                     "value":"519"
+                  },
+                  {
+                     "label":"Childcare",
+                     "value":"521"
+                  },
+                  {
+                     "label":"Connecting rooms available",
+                     "value":"523"
+                  },
+                  {
+                     "label":"Cribs available",
+                     "value":"525"
+                  },
+                  {
+                     "label":"Electric vehicle charging point",
+                     "value":"1073743315"
+                  },
+                  {
+                     "label":"Gym",
+                     "value":"2"
+                  },
+                  {
+                     "label":"Internet Access",
+                     "value":"8"
+                  },
+                  {
+                     "label":"Kitchen",
+                     "value":"32"
+                  },
+                  {
+                     "label":"Meeting Facilities",
+                     "value":"1"
+                  },
+                  {
+                     "label":"Non-smoking",
+                     "value":"529"
+                  },
+                  {
+                     "label":"Parking available",
+                     "value":"16384"
+                  },
+                  {
+                     "label":"Parking included",
+                     "value":"134234112"
+                  },
+                  {
+                     "label":"Pet friendly",
+                     "value":"64"
+                  },
+                  {
+                     "label":"Pool",
+                     "value":"128"
+                  },
+                  {
+                     "label":"Restaurant",
+                     "value":"256"
+                  },
+                  {
+                     "label":"Ski-in/ski-out",
+                     "value":"535"
+                  },
+                  {
+                     "label":"Ski shuttle",
+                     "value":"531"
+                  },
+                  {
+                     "label":"Ski storage",
+                     "value":"533"
+                  },
+                  {
+                     "label":"Smoking areas",
+                     "value":"537"
+                  },
+                  {
+                     "label":"Spa",
+                     "value":"539"
+                  },
+                  {
+                     "label":"WiFi included",
+                     "value":"527"
+                  }
+               ]
+            },
+            "accessibility":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Accessibility equipment for the deaf",
+                     "value":"2097152"
+                  },
+                  {
+                     "label":"Accessible bathroom",
+                     "value":"131072"
+                  },
+                  {
+                     "label":"Accessible parking",
+                     "value":"524288"
+                  },
+                  {
+                     "label":"Accessible path of travel",
+                     "value":"65536"
+                  },
+                  {
+                     "label":"Braille or raised signage",
+                     "value":"4194304"
+                  },
+                  {
+                     "label":"In-room accessibility",
+                     "value":"1048576"
+                  },
+                  {
+                     "label":"Roll-in shower",
+                     "value":"262144"
+                  },
+                  {
+                     "label":"Wheelchair accessible rooms",
+                     "value":"541"
+                  }
+               ]
+            },
+            "themesAndTypes":{
+               "applied":false,
+               "items":[
+                  {
+                     "label":"Adventure",
+                     "value":"18"
+                  },
+                  {
+                     "label":"Beach",
+                     "value":"6"
+                  },
+                  {
+                     "label":"Business",
+                     "value":"14"
+                  },
+                  {
+                     "label":"Family-friendly",
+                     "value":"25"
+                  },
+                  {
+                     "label":"Golf",
+                     "value":"26"
+                  },
+                  {
+                     "label":"LGBT Welcoming",
+                     "value":"21"
+                  },
+                  {
+                     "label":"Luxury",
+                     "value":"15"
+                  },
+                  {
+                     "label":"Ski",
+                     "value":"28"
+                  },
+                  {
+                     "label":"Spa Hotel",
+                     "value":"27"
+                  }
+               ]
+            },
+            "price":{
+               "label":"Price (total)",
+               "range":{
+                  "min":{
+                     "defaultValue":0
+                  },
+                  "max":{
+                     "defaultValue":500
+                  },
+                  "increments":5
+               },
+               "multiplier":1
+            },
+            "paymentPreference":{
+               "items":[
+                  {
+                     "label":"Pay with Hotels.com gift card",
+                     "value":"gc"
+                  }
+               ]
+            },
+            "welcomeRewards":{
+               "label":"Hotels.com® Rewards",
+               "items":[
+                  {
+                     "label":"Collect stamps",
+                     "value":"collect"
+                  },
+                  {
+                     "label":"Redeem reward* nights",
+                     "value":"redeem"
+                  }
+               ]
+            }
+         },
+         "pointOfSale":{
+            "currency":{
+               "code":"GBP",
+               "symbol":"£",
+               "separators":",.",
+               "format":"£{0}"
+            }
+         },
+         "miscellaneous":{
+            "pageViewBeaconUrl":"https://www.egadvertising.com/travelAds/v1/TravelAdPageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1663115&hotelIds=1360453632,247722,620992896,275366,275220,476427,352054,352053,1184531456,1090058432,1090052800,1090054720,1088872224,1090056736,1090059584,635280448,620976800,620984864,1230042080,1230030048,1230051424,509622,679587008,1230052864,1230033824&adults=2&userAgent=Hotels.com/Android%2056.1.1.9.release-56_1%20(56010472)&userGuid=ae29cdc6-0eec-4e15-a320-0ad3a7d41b0c&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E&children=0&culture=en_GB&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.0,9008.0,8347.0,9004.0,8952.0,7992.2,8915.0,9729.0,9716.0,9803.0,9824.0,9864.0&domain=uk.hotels.com&tac=true&userIP=127.0.0.1&action=pageview&publisher=expedia&programId=1",
+            "showLegalInfoForStrikethroughPrices":true,
+            "legalInfoForStrikethroughPrices":"The struck-out price is based on the property’s standard rate on our app, as determined and supplied by the property."
+         },
+         "pageInfo":{
+            "pageType":"dateless"
+         }
+      },
+      "common":{
+         "pointOfSale":{
+            "numberSeparators":",.",
+            "brandName":"Hotels.com"
+         },
+         "tracking":{
+            "omniture":{
+               "s.prop33":"D=v33",
+               "s.prop32":"D=v43",
+               "s.prop74":"search result without dates | ms shown | N",
+               "s.products":"LOCAL;42482926,MULTISOURCE;1636387,LOCAL;19374778",
+               "s.eVar16":"Mob :: aApp",
+               "s.eVar40":"D=v0",
+               "s.eVar41":"GBP",
+               "s.eVar63":"15e6422e-d780-47f2-bb49-10aefd6b7c88",
+               "s.eVar42":"dateless",
+               "s.eVar4":"|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+               "s.eVar43":"en_GB|HCOM_UK|uk.hotels.com",
+               "s.eVar2":"Levi, Lapland, Finland",
+               "s.eVar24":"MCTC=20;TU=NA;PDID=NULL;MVT=",
+               "s.eVar7":"",
+               "s.server":"uk.hotels.com",
+               "s.eVar6":"1663115",
+               "s.prop29":"D=v42",
+               "s.prop27":"ae29cdc6-0eec-4e15-a320-0ad3a7d41b0c",
+               "s.eVar9":"Price - low to high",
+               "s.eVar69":"Mob :: aApp",
+               "s.currencyCode":"GBP",
+               "s.eVar29":"Mob :: aApp",
+               "s.prop9":"52",
+               "s.prop8":"0",
+               "s.eVar95":"Unknown",
+               "s.prop7":"52",
+               "s.eVar31":"D=v0",
+               "s.eVar32":"D=v0",
+               "s.eVar33":"Mob :: aApp :: search result without dates",
+               "s.eVar34":"H277:018.007,H1871:007.002,H2585:002.001,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:031.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7066:000.000,M7192:000.001,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7384:000.000,M7552:023.001,M7561:000.000,M7870:000.000,M8130:000.001,M8336:005.002,M8347:000.000,M8692:000.000,M8698:000.000,M8714:000.000,M8718:000.000,M8915:000.000,M8928:000.000,M8952:000.000,M8976:000.000,M8992:000.000,M9004:000.000,M9035:000.000,M9065:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9508:000.000,M9549:000.000,M9716:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10013:000.000,M10077:000.000,M9215:001.000",
+               "s.eVar13":"389356",
+               "s.events":"event324,event320,event318,event319",
+               "s.prop18":"D=v6",
+               "s.prop5":"389356",
+               "s.prop15":"",
+               "s.prop3":"Levi, Lapland, Finland",
+               "s.prop14":"D=v7",
+               "s.prop36":"|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+               "s.eVar93":"aws.us-west-2.unknown",
+               "s.prop2":"Price - low to high"
+            }
+         }
+      }
+   }
+}
