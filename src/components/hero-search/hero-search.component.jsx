@@ -11,7 +11,7 @@ export default function HeroSearch() {
         src="https://farm66.staticflickr.com/65535/50611879577_0d9b97d62e_b.jpg"
       />
       <div className="search">
-        <h2>The Authority on the snow</h2>
+        <h2>The Authority on the Snow</h2>
         <p>
           Compare thousands of prices from the best resorts across the world
         </p>

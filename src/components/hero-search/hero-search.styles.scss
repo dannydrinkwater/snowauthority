@@ -5,6 +5,10 @@
   width: 100%;
   height: calc(100vh - 125px);
   min-height: 340px;
+
+  @media (min-width: 768px) {
+    height: calc(100vh - 200px);
+  }
 }
 
 .hero__background {
@@ -18,7 +22,7 @@
   position: absolute;
   bottom: 20px;
   width: calc(100% - 40px);
-  max-width: 800px;
+  max-width: 1000px;
   padding: 20px;
   background-color: #fff;
   border-radius: 8px;
@@ -41,9 +45,8 @@
 .search__form-field {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  position: relative;
   width: 100%;
-  padding: 10px;
   background: #f2f1f1;
   border-top: 1px solid #ddd;
 
@@ -52,6 +55,8 @@
   }
 
   > svg {
+    position: absolute;
+    left: 10px;
     font-size: 20px;
   }
 
@@ -61,8 +66,8 @@
 }
 
 .search__form-input {
-  flex-grow: 2;
-  margin-left: 5px;
+  height: 60px;
+  padding: 0 0 0 40px;
   background-color: transparent;
   border: 0;
   outline: none;
@@ -70,14 +75,34 @@
 
 .search__form-submit {
   width: 100%;
+  height: 60px;
   padding: 10px 30px;
   border: 0;
-  background: linear-gradient(
-    92.05deg,
-    #bca1f7 12.09%,
-    #e577b4 42.58%,
-    #ff7170 84.96%
-  );
+  // background: linear-gradient(
+  //   92.05deg,
+  //   #bca1f7 12.09%,
+  //   #e577b4 42.58%,
+  //   #ff7170 84.96%
+  // );
+
+  // Gradients from uigradients.com
+  // background: linear-gradient(92.05deg, #403a3e, #be5869); // Poncho
+  // background: linear-gradient(92.05deg, #fc00ff, #00dbde); // Timber
+  // background: linear-gradient(92.05deg, #C02425, #F0CB35); // Back to the Future
+  // background: linear-gradient(92.05deg, #7b4397, #dc2430); // Virgin America
+  // background: linear-gradient(92.05deg, #ff0084, #33001b); // Flickr
+  // background: linear-gradient(
+  //   92.05deg,
+  //   #833ab4 12.09%,
+  //   #fd1d1d 42.58%,
+  //   #fcb045 84.96%
+  // ); // Instagram
+  // background: linear-gradient(92.05deg, #43cea2, #185a9d); // Endless River
+  // background: linear-gradient(92.05deg, #780206, #061161); // Man of Steel
+  // background: linear-gradient(92.05deg, #f0c27b, #4b1248); // Starfall
+  // background: linear-gradient(92.05deg, #d3959b, #bfe6ba); // Candy
+  background: linear-gradient(92.05deg, #ff512f, #dd2476); // Bloody Mary
+
   color: #fff;
   font-weight: bold;
 }

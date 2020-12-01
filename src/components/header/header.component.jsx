@@ -9,8 +9,7 @@ export default function Header() {
     <header className="site-header">
       <nav className="site-navigation container">
         <a className="site-logo" href="#" title="Ski">
-          <FaMountain />
-          Snow<span className="highlight">Authority</span>
+          snow<span className="highlight">authority</span>
         </a>
         <div className="main-menu">
           <button className="utility-nav__btn close-nav">
